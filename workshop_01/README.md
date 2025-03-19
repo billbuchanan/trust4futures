@@ -1,6 +1,6 @@
 # Workshop 1
 
-The first workshop is 26 March 2025 at 10am (CET).
+The first workshop is 26 March 2025 at 10am (CET). If you are registered on Moodle, the link is [here](https://moodlecommunity.napier.ac.uk/course/view.php?id=960).
 
 ## Session 1: Bill
 
