@@ -1,5 +1,8 @@
 # Trust4Futures
-This is the main place for the content related to Trust4Futures.
+This is a collaboration between Edinburgh Napier University, TAGES and Istanbul Blockchain Women, and funded by the EIT Deep Tech Talent Initiative of the European Institute of Innovation and Technology (EIT). The main Web site is [here](https://trust4futures.com/).
+
+## Workshops
+The main workshops are:
 
 * Online Workshop 1 (Wednesday, 26 March 2025, 10am CET). Cryptography Fundamentals [here](https://github.com/billbuchanan/trust4futures/tree/main/workshop_01).
 * Online Workshop 2 (Wednesday, 16 April 2025, 10am CET). Public Key, Digital ID and Blockchain.
