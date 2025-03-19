@@ -1,6 +1,6 @@
 # Workshop 1
 
-The first workshop is 26 March 2025.
+The first workshop is 26 March 2025 at 10am (CET).
 
 ## Session 1: Bill
 
