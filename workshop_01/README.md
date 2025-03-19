@@ -5,7 +5,7 @@ The first workshop is 26 March 2025 at 10 am (CET). If you are registered on Moo
 ## Session 1: Cryptography Fundamentals
 Presentator: Bill
 
-* 10-12pm: Intro/Cryptography Fundamentals. Video recording [here](https://www.youtube.com/watch?v=dQqzrf0dh0k).
+* 10-12pm: Intro/Cryptography Fundamentals. Presentation: [here](https://github.com/billbuchanan/trust4futures/blob/main/workshop_01/workshop_01_cryptography.pdf). Video recording [here](https://www.youtube.com/watch?v=dQqzrf0dh0k).
 * 12-1pm: Break
 
 ## Session 2: Trust4Futures 
