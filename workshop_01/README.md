@@ -57,7 +57,6 @@ Whitfield (Whit) Diffie is one of the greatest Computer Scientists ever. He — 
 * We can slow down a hashing method by putting it through a number of rounds.
 * Argon 2 aims to slow down password cracking within GPUs.
 
-
 ## Asymmetric (Public) Key Methods
 * With the asymmetric key, we have two keys: a public key (pk) and a private key (SK).
 * To encrypt data, we encrypt with the public key, and decrypt with the private key.
@@ -66,7 +65,7 @@ Whitfield (Whit) Diffie is one of the greatest Computer Scientists ever. He — 
 ## Key Exchange methods
 * The Diffie-Hellman key exchange method allows Bob and Alice to communicate openly and then end up with the same shared encryption key.
 * With the Diffie-Hellman method, Bob generates a secret (b) and passes a value of g^b (mod p) to Alice. Alice generates a secret (a) and passes a value of g^a (mod p) to Alice.  After they exchange values, they end up with a shared secret of g^{ab} (mod p).
-* The most popular key exchange method these days is ECDH (Elliptic Curve Diffie Hellman), and which use elliptic cruve methods.
+* The most popular key exchange method these days is ECDH (Elliptic Curve Diffie Hellman), which uses elliptic curve methods.
 
 ## Digital Signature Methods
 * The main digital signature methods are RSA, ECDSA and EdDSA (Ed25519).
