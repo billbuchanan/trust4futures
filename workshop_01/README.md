@@ -28,8 +28,21 @@ Presentator: Prof Bill Buchanan OBE
 
 # Key Principles of Cryptography
 
+## Cyber actors
+* Bob and Alice are typically used to describe the passing of data between two entities.
+* Eve is the passive adversary.
+* Mallory is the active adversary.
+* Trent is trusted by both Bob and Alice.
+* Peggy proves something and Victor verifies it.
+
+## Famous inventors
+* Whitfield Diffie and Marty Hellman created the Diffie-Hellman method in 1976.
+* Ron Rivest, Adi Shamir and Len Adleman created the RSA method in 1977.
+* Ralph Merkle created the Merkle Tree method, and which is used in blockchain applications.
+* Neal Koblitz co-created Elliptic Curve Cryptography.
+
 ## Symmetric Key Encryption
-* With symmetric key encryption we use the same key to encrypt and to decrypt.
+* With symmetric key encryption, we use the same key to encrypt and decrypt.
 
 ## Hashing Methods
 * With MD5, we have a 128-bit hash, with SHA-1, we have a 160-bit hash, and SHA-256 has a 256-bit hash.
