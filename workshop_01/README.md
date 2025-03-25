@@ -1,6 +1,6 @@
 # Workshop 1
 
-The first workshop is 26 March 2025 at 10 am (CET). If you are registered on Moodle, the link is [here](https://moodlecommunity.napier.ac.uk/course/view.php?id=960).
+The first workshop is 26 March 2025 at 10 am (CET). If you are registered on Moodle, the link is [here](https://moodlecommunity.napier.ac.uk/course/view.php?id=960), and you can take a test [here](https://moodlecommunity.napier.ac.uk/mod/quiz/view.php?id=52669).
 
 ## 10-12pm (CET): Cryptography Fundamentals
 Presentator: Prof Bill Buchanan OBE
