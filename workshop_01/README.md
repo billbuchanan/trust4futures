@@ -25,3 +25,22 @@ Presentator: Prof Bill Buchanan OBE
 ## 3-4pm (CET): Guest speaker
 * Chair: Prof Bill Buchanan OBE
 * Whitfield Diffie guest talk.
+
+# Key Principles of Cryptography
+
+## Symmetric Key Encryption
+* With symmetric key encryption we use the same key to encrypt and to decrypt.
+
+## Hashing Methods
+* With MD5, we have a 128-bit hash, with SHA-1, we have a 160-bit hash, and SHA-256 has a 256-bit hash.
+
+## Key Derivation Functions (KDF)
+* KDFs are used to generate encryption keys or hashed passwords.
+* For hashed passwords, we can use the relatively slow methods of PBKDF2, bcrypt, scryt or Argon 2.
+* We can slow down a hashing method by putting it through a number of rounds.
+* Argon 2 aims to slow down password cracking within GPUs.
+
+## Asymmetric (Public) Key Methods
+* With asymmetric key, we have two keys: public key (pk) and a private key (sk).
+* To encrypt data, we encrypt with the public key, and decrypt with the private key.
+* To sign data, we sign a hash of the message with our private key and verify with the public key.
