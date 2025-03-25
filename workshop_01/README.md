@@ -20,7 +20,7 @@ Presentator: Prof Bill Buchanan OBE
 
 ## 2-3pm: Practical and Mentimeter Interactive Test
 * Moderator: Prof Bill Buchanan OBE
-* 2-3pm: Mentimeter test and practical hands-on.
+* Mentimeter test and practical hands-on.
 
 ## 3-4pm (CET): Guest speaker
 * Chair: Prof Bill Buchanan OBE
