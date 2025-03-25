@@ -26,6 +26,10 @@ Presentator: Prof Bill Buchanan OBE
 * Chair: Prof Bill Buchanan OBE
 * Whitfield Diffie guest talk.
 
+# Whitfield Diffie
+
+Whitfield (Whit) Diffie is one of the greatest Computer Scientists ever. He — along with Marty Hellman — was one of the first to propose the usage of public key encryption and co-created the Diffie-Hellman (DH) key exchange method. Overall, the Diffie-Hellman method is still used in virtually every Web connection on the Internet and has changed from using discrete log methods to elliptic curve methods. In 2015, Whitfield was also awarded the ACM Turing Prize — and which is the Nobel Prize equivalent in Computer Science.
+
 # Key Principles of Cryptography
 
 ## Cyber actors
