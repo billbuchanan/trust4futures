@@ -22,7 +22,7 @@ Presentator: Prof Bill Buchanan OBE
 * Moderator: Prof Bill Buchanan OBE
 * Mentimeter test and practical hands-on.
 
-## 3-4pm (CET): Guest speaker
+## 3-4pm (CET): Guest speaker: Whitfield Diffie
 * Chair: Prof Bill Buchanan OBE
 * Whitfield Diffie guest talk.
 
