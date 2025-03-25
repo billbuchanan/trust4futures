@@ -13,12 +13,12 @@ Presentator: Prof Bill Buchanan OBE
 * Panelists: Çağla Gül Şenkardeş, Leyla Arsan, Bill Buchanan
 * Co-host: Hisham Ali
   
-## 1:30-2pm: Voices4Futures #1
+## 1:30-2pm (CET): Voices4Futures #1
 * Moderator: Dr Burcu Sakiz
 * Guest speaker: Çağla Gül Şenkardeş (Turkish Technology - Information Security Governance and Compliance
 * Co-host: Dr Hisham Ali
 
-## 2-3pm: Practical and Mentimeter Interactive Test
+## 2-3pm (CET): Practical and Mentimeter Interactive Test
 * Moderator: Prof Bill Buchanan OBE
 * Mentimeter test and practical hands-on.
 
