@@ -26,6 +26,10 @@ Presentator: Prof Bill Buchanan OBE
 * Chair: Prof Bill Buchanan OBE
 * Whitfield Diffie guest talk.
 
+# Whitfield Diffie
+
+Whitfield (Whit) Diffie is one of the greatest Computer Scientists ever. He — along with Marty Hellman — was one of the first to propose the usage of public key encryption and co-created the Diffie-Hellman (DH) key exchange method. Overall, the Diffie-Hellman method is still used in virtually every Web connection on the Internet and has changed from using discrete log methods to elliptic curve methods. In 2015, Whitfield was also awarded the ACM Turing Prize — and which is the Nobel Prize equivalent in Computer Science.
+
 # Key Principles of Cryptography
 
 ## Cyber actors
@@ -54,6 +58,15 @@ Presentator: Prof Bill Buchanan OBE
 * Argon 2 aims to slow down password cracking within GPUs.
 
 ## Asymmetric (Public) Key Methods
-* With asymmetric key, we have two keys: public key (pk) and a private key (sk).
+* With the asymmetric key, we have two keys: a public key (pk) and a private key (SK).
 * To encrypt data, we encrypt with the public key, and decrypt with the private key.
+* The main elliptic curve methods are NIST P-256, secp256k1 (the Bitcoin curve), and Curve 25519.
+
+## Key Exchange methods
+* The Diffie-Hellman key exchange method allows Bob and Alice to communicate openly and then end up with the same shared encryption key.
+* With the Diffie-Hellman method, Bob generates a secret (b) and passes a value of g^b (mod p) to Alice. Alice generates a secret (a) and passes a value of g^a (mod p) to Alice.  After they exchange values, they end up with a shared secret of g^{ab} (mod p).
+* The most popular key exchange method these days is ECDH (Elliptic Curve Diffie Hellman), which uses elliptic curve methods.
+
+## Digital Signature Methods
+* The main digital signature methods are RSA, ECDSA and EdDSA (Ed25519).
 * To sign data, we sign a hash of the message with our private key and verify with the public key.
