@@ -9,7 +9,7 @@ The topics covered are:
 * Cryptocurrency.
 * Digital ID
 
-The presentation on this is [here](https://youtu.be/zi9uCkcS72w).
+The presentation on this is [here](https://www.youtube.com/watch?v=kx5Pp-Jxi2Y).
 
 ## 11-12pm (CET) Guest speakers
 
