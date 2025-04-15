@@ -7,7 +7,7 @@ The second workshop is on 15 April 2025 at 10 am (CET). If you are registered on
 The topics covered are:
 * Blockchain.
 * Cryptocurrency.
-* Digital ID
+* Digital Signing.
 
 The presentation on this is [here](https://www.youtube.com/watch?v=kx5Pp-Jxi2Y).
 
