@@ -9,7 +9,7 @@ The topics covered are:
 * Cryptocurrency.
 * Digital Signing.
 
-The presentation on this is [here](https://www.youtube.com/watch?v=kx5Pp-Jxi2Y).
+The presentation on this is [here](https://www.youtube.com/watch?v=kx5Pp-Jxi2Y) and the PowerPOint is [here](https://github.com/billbuchanan/trust4futures/blob/main/workshop_02/workshop_02_blockchain.pdf).
 
 ## 11-12pm (CET) Guest speakers
 
