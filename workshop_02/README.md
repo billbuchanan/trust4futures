@@ -46,7 +46,7 @@ The discussion is [here](https://youtu.be/_zjROu-NYV4).
 * Each block has a hash that the miners race to find a Nonce value, which will give a hash with a given number of preceding zeros, eg 0000000000000000000215512adf2fc46a80ce14022be5584ae4459dc77283cf.
 * Each block has a Merkle Root, and which is a Merkle hash of all the transactions in the block, eg 46c7f05e9c0ce7e3b2fe4abbe37b0683803c818f76d77fedc5683d61af6f7753
 * A Bitcoin address is created from a random 256-bit seed value. This is used to create a Wif private key using Base-58. This key is stored in a digital wallet.
-* For the Bitcoin ID, we create an ECDSA public key and then hash it with SHA-256 and RIPEDM-160, and convert it to an ID with Base-58.
+* For the Bitcoin ID, we create an ECDSA public key and then hash it with SHA-256 and RIPEMD-160 and convert it to an ID with Base-58.
 * To sign a transaction, Bob uses his private key to sign a transaction, and which contains Alice's ID. Everyone can verify the transaction on the blockchain using Bob's public key.
 * An example of a digital wallet is MetaMask.
 * Bitcoin is a permission-less ledger and where anyone can create a wallet.
@@ -65,6 +65,8 @@ The discussion is [here](https://youtu.be/_zjROu-NYV4).
 * Integrated cryptocurrency: ETH.
 * Blocks produced every 10 seconds or so.
 * The size of the blocks typically varies up to around 250KB, and there are between 50 and 250 transactions.
+* With cryptocurrency, the smart contract creates a finite supply, and no more can be created. The creator of the contract will allocate the owner of all the coins.
+* With an NFT (Non-fungible Token), no NFTs are created initially. These are minted as required and require JSON data to be added.
 
 ## Hyperledger
 * The Hyperledger project is an open-source permissioned blockchain.
@@ -73,6 +75,7 @@ The discussion is [here](https://youtu.be/_zjROu-NYV4).
 * Smart contracts are created with either Golang, Java, or Node.js.
 * The ledger is not public.
 * No integrated cryptocurrency or token.
+
 
 
 
