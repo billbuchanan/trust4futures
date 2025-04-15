@@ -35,5 +35,46 @@ The discussion is [here](https://youtu.be/_zjROu-NYV4).
 
 # Key Principles of Blockchain
 
+## Bitcoin
+* Bitcoin was created in 2019 by Satoshi Nakamoto.
+* 0.00000001 Bitcoin is one Satoshi.
+* A new block is created every 10 minutes or so.
+* There are only 21 million Bitcoins that can be minted.
+* The first reward for mining was 50 BTCs, and which halves in its reward at certain times.
+* Currently, the reward for mining is 3.125 BTC.
+* The first block was mined on 3 Jan 2009 and is known as the Genesis Record (Block zero).
+* Each block has a hash that the miners race to find a Nonce value, which will give a hash with a given number of preceding zeros, eg 0000000000000000000215512adf2fc46a80ce14022be5584ae4459dc77283cf.
+* Each block has a Merkle Root, and which is a Merkle hash of all the transactions in the block, eg 46c7f05e9c0ce7e3b2fe4abbe37b0683803c818f76d77fedc5683d61af6f7753
+* A Bitcoin address is created from a random 256-bit seed value. This is used to create a Wif private key using Base-58. This key is stored in a digital wallet.
+* For the Bitcoin ID, we create an ECDSA public key and then hash it with SHA-256 and RIPEDM-160, and convert it to an ID with Base-58.
+* To sign a transaction, Bob uses his private key to sign a transaction, and which contains Alice's ID. Everyone can verify the transaction on the blockchain using Bob's public key.
+* An example of a digital wallet is MetaMask.
+* Bitcoin is a permission-less ledger and where anyone can create a wallet.
+* The block size is around 2MB
+
+## Ethereum
+* Created in 2015 by Vitalik Buterin and others.
+* Introduced the usage of smart contracts.
+* It was hacked in 2016, and the currency was split into two: Ethereum (ETH) and Ethereum Classic (ETC).
+* Miners consume gas for undertaking work.
+* One Keccack256 takes 30 gas, and six more gas for every 256 bits of data.
+* Each transaction has a gas fee associated with it.
+* The programming language used for Ethereum is Solidity, and where we compile the code into byte code and which runs on the blockchain.
+* The online compiler for Ethereum is Remix.org.
+* Ethereum is a permission-less ledger and where anyone can create a wallet.
+* Integrated cryptocurrency: ETH.
+* Blocks produced every 10 seconds or so.
+* The size of the blocks typically varies up to around 250KB, and there are between 50 and 250 transactions.
+
+## Hyperledger
+* The Hyperledger project is an open-source permissioned blockchain.
+* Hyperledger INDY is used for digital identity.
+* Hyperledger FABRIC is used to create a DLT (Distributed Ledger Technology).
+* Smart contracts are created with either Golang, Java, or Node.js.
+* The ledger is not public.
+* No integrated cryptocurrency or token.
+
+
+
 
 
