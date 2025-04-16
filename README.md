@@ -1,5 +1,5 @@
 # Trust4Futures
-This is a collaboration between Edinburgh Napier University, TAGES and Istanbul Blockchain Women and funded by the EIT Deep Tech Talent Initiative of the European Institute of Innovation and Technology (EIT). The main Web site is [here](https://trust4futures.com/).
+This is a collaboration between Edinburgh Napier University, TAGES and Istanbul Blockchain Women and funded by the EIT Deep Tech Talent Initiative of the European Institute of Innovation and Technology (EIT). The main Web site is [here](https://trust4futures.com/) and the associated Moodle site is [here](https://moodlecommunity.napier.ac.uk/course/view.php?id=960).
 
 ## Developing Deep Tech Skills in Digital Trust
 
