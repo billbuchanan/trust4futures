@@ -59,10 +59,11 @@ The discussion is [here](https://www.youtube.com/watch?v=o6bq-eMgTBI).
 * The most common key exchange method is ECDH (Elliptic Curve Diffie Hellman).
 * The most common digital signature methods are RSA PSS, ECDSA and EdDSA.
 * The most common public key encryption method is RSA OAEP.
-* Kyber is a lattice method and is standardized with the NIST defined FIPS 203 standard.
-* Dilithium is a lattice method and is standardized with the NIST defined FIPS 204 standard.
-* SPHINCS+ is a hash based method and is standardized with the NIST defined FIPS 205 standard. It has small key sizes but a relatively large signature size.
+* Kyber (ML-KEM) is a lattice method and is standardized with the NIST defined FIPS 203 standard.
+* Dilithium (ML-DSA) is a lattice method and is standardized with the NIST defined FIPS 204 standard.
+* SPHINCS+ (SLH-DSA) is a hash based method and is standardized with the NIST defined FIPS 205 standard. It has small key sizes but a relatively large signature size.
 * FALCON is a lattice based method and is standardized with the NIST defined FIPS 206 standard. It has smaller key and cipher sizes than Dilithium.
+* HQC has been added as a key exchange alterative to Kyber (ML-KEM).
 
 
 
