@@ -51,7 +51,7 @@ The discussion is [here](https://www.youtube.com/watch?v=o6bq-eMgTBI).
 * ollamma is a tool to prompt the Llama 3 model.
   
 ## PQC
-* Quantum computers uses Q bits to process data.
+* Quantum computers uses Qubits to process data.
 * Shorr's algorithm can crack existing public key methods.
 * Gover's algorithm can crack 128-bit symmetric key and hashing methods.
 * Kyber selected for a Post Quantum Key Exchange and Public Key Encryption method, along with HQC.
