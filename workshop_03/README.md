@@ -16,7 +16,7 @@ The topic covered is AI and Cyber. The presentation on AI and Cyber is [here](ht
 ## 1-1:2pm (CET) PQC and Quiz
 The presentation on PQC is [here](https://www.youtube.com/watch?v=GWlJIHZaXGw).
 
-## 2-2:45pm (CET) Guest speakers
+## 2-2:50pm (CET) Guest speakers
 
 * Don Smith. AI and Cyber. The chat is [here](https://www.youtube.com/watch?v=zGkOT-bkkuo).
 
