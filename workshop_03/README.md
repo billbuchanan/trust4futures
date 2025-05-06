@@ -29,6 +29,28 @@ The discussion is [here](https://www.youtube.com/watch?v=o6bq-eMgTBI).
 
 # Key Principles of AI and Cyber
 
+## GenAI
+* ChatGPT used for text analysis, DALLE-3 for image generation, Sora for video generation, and Whisper for audio.
+* Back propagation used to train a Neural Network.
+* Forward propagation used for to fire neurons in the Neural Network.
+* Hallucinations are where GenAI gets the result wrong.
+* Jailbreaking an LLM involves taking it outside its limits for ethical and moral guidelines.
+
+## PQC
+* Quantum computers uses Q bits to process data.
+* Shorr's algorithm can crack existing public key methods.
+* Gover's algorithm can crack 128-bit symmetric key and hashing methods.
+* Kyber selected for a Post Quantum Key Exchange and Public Key Encryption method, along with HQC.
+* Dilithium, FALCON and SPHINCS+ selected for a Post Quantum Digital Signature method.
+* The most common key exchange method is ECDH (Elliptic Curve Diffie Hellman).
+* The most common digital signature methods are RSA PSS, ECDSA and EdDSA.
+* The most common public key encryption method is RSA OAEP.
+* Kyber is a lattice method and is standardized with the NIST defined FIPS 203 standard.
+* Dilithium is a lattice method and is standardized with the NIST defined FIPS 204 standard.
+* SPHINCS+ is a hash based method and is standardized with the NIST defined FIPS 205 standard. It has small key sizes but a relatively large signature size.
+* FALCON is a lattice based method and is standardized with the NIST defined FIPS 206 standard. It has smaller key and cipher sizes than Dilithium.
+
+
 
 
 
