@@ -30,12 +30,26 @@ The discussion is [here](https://www.youtube.com/watch?v=o6bq-eMgTBI).
 # Key Principles of AI and Cyber
 
 ## GenAI
-* ChatGPT used for text analysis, DALLE-3 for image generation, Sora for video generation, and Whisper for audio.
+* The Turing Test was devised by Alan Turing. It tests a machine for ability to exhibit human intelligence.
+* There are many types of human intelligence, including spatial intelligence (picture smart), inter-personnel intelligence (people smart) and intra-personal intelligence (self smart)
+* ChatGPT used for text analysis, DALLE-3 for image generation, Sora for video generation and Whisper for audio.
 * Back propagation used to train a Neural Network.
+* Convolution is used to convert a Neural Network input to a set of parameters.
 * Forward propagation used for to fire neurons in the Neural Network.
 * Hallucinations are where GenAI gets the result wrong.
 * Jailbreaking an LLM involves taking it outside its limits for ethical and moral guidelines.
-
+* The singararity is the point at which machine intelligence exceeds human intelligence.
+* The first step of training an LLM is to label the required outputs behavour for training data.
+* The second step of training an LLM involves a human grading a range of outputs, from best to worst.
+* The third step of training an LLM involves receiving a reward for the correct outputs.
+* Key threats for attacking GenAI  are jailbreaks, reverse psychology, model escape and prompt injection.
+* Certain key words can sometimes be used to detect the presence of LLM outputs, such as for the word of "delve".
+* Ways of detecting machine activity include forced persona, too informal and lack of a personality.
+* way of detecting human activity include humanlike tone, informal tone, and SPAG (Spelling and Grammar) errors.
+* Llama 3 is an open source LLM model from Meta. It is available in 3.2 billion and 70 billion parameters.
+* Google created the Transformer method in 2017, and which supported the use to token predication and LSTM (Long-short-term-memory).
+* ollamma is a tool to prompt the Llama 3 model.
+  
 ## PQC
 * Quantum computers uses Q bits to process data.
 * Shorr's algorithm can crack existing public key methods.
