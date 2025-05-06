@@ -1,4 +1,4 @@
-# Workshop 2
+# Workshop 3
 
 The third workshop is on 7 May 2025 at 10 am (CET). If you are registered on Moodle, the link is [here](https://moodlecommunity.napier.ac.uk/course/view.php?id=960).
 
