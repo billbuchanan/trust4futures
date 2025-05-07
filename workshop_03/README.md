@@ -4,7 +4,7 @@ The third workshop is on 7 May 2025 at 10 am (CET). If you are registered on Moo
 
 ## 10-11am (CET) AI and Cyber
 
-The topic covered is AI and Cyber. The presentation on AI and Cyber is [here](https://www.youtube.com/watch?v=k20AD736OAs). You can download the presentation [here](https://asecuritysite.com/workshop_03_ai.pdf). The live lecture from the workshop is [here](https://www.youtube.com/watch?v=0D8UarDGwwk).
+The topic covered is AI and Cyber. The presentation on AI and Cyber is [here](https://www.youtube.com/watch?v=k20AD736OAs) and the live presentation is [here](https://www.youtube.com/watch?v=0D8UarDGwwk). You can download the presentation [here](https://asecuritysite.com/workshop_03_ai.pdf). 
 
 ## 11-12pm (CET) Guest speakers
 
