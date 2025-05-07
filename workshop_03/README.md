@@ -16,6 +16,10 @@ The topic covered is AI and Cyber. The presentation on AI and Cyber is [here](ht
 ## 1-1:2pm (CET) PQC and Quiz
 The presentation on PQC is [here](https://www.youtube.com/watch?v=GWlJIHZaXGw).
 
+A demo of Kyber (ML-KEM) is [here](https://asecuritysite.com/webcrypto/crypt_ml_kem).
+
+A demo of Dilithium (ML-DSA) is [here](https://asecuritysite.com/webcrypto/crypt_ml_dsa).
+
 ## 2-2:50pm (CET) Guest speaker
 
 * Don Smith. AI and Cybersecurity. The chat is [here](https://www.youtube.com/watch?v=zGkOT-bkkuo).
