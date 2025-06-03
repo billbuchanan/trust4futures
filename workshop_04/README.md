@@ -21,7 +21,7 @@ This will provide some demos and a quiz.
 
 * Madjid Golparvaran Tehrani. PQC and Quantum Computing.
  
-## 3-4pm (CET) World-leaders in Cryptography: Chris Peikert. University of Michigan.
+## 3-4pm (CET) World-leaders in Cryptography: Chris Peikert, University of Michigan.
 Chris is a Professor in the Computer Science and Engineering department at the University of Michigan. He completed his PhD in 2006 at the MIT Computer Science and AI Laboratory under the mentorship of Silvio Micali.  He received a Test of Time award at Crypto 2008 for a paper entitled "A Framework for Efficient and Composable Oblivious Transfer" and also a TCC Test of Time award for his paper on “Efficient Collision-Resistant Hashing from Worst-Case Assumptions on Cyclic Lattices,” in 2006.  In 2024, Chris was elected a Fellow of the International Association for Cryptologic Research and is recognised as one of the world's leading experts in lattice-based methods.
 
 # Test 
