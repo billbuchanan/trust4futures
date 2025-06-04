@@ -22,6 +22,13 @@ Some examples are here:
 ## 1-2pm (CET) ZKP/FHE Demos and Quiz
 This will provide some demos and a quiz.
 
+Examples:
+
+* Fiat-Shamir. This implements the Fiat-Shamir method with the secp256k1 curve [here](https://asecuritysite.com/zero/nizkp).
+* Accumulators. This implements an elliptic curve method of implementing an accumulator [here](https://asecuritysite.com/zero/witness).
+* zkSnark. This implements a ZKP [here](https://asecuritysite.com/zero/go_qap) and proof with R1CS [here](https://asecuritysite.com/zero/go_r1cs).
+* Pedersen Commitment. This implements a simple Pedersen Commitment [here](https://asecuritysite.com/encryption/ped).
+  
 ## 2-3pm (CET) Guest speaker
 
 * Madjid Golparvaran Tehrani. PQC and Quantum Computing.
