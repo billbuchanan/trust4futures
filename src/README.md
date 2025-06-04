@@ -2,8 +2,8 @@
 
 Examples:
 
-* Fundamentals [here](src/01_fundamentals.ipynb)
-* Symmetric Key [here](src/02_symmetric_key.ipynb).
+* Fundamentals [here](01_fundamentals.ipynb)
+* Symmetric Key [here](02_symmetric_key.ipynb).
 * Hashing [here](src/03_hashing.ipynb).
 * Diffie Hellman [here](src/04_key_exchange.ipynb).
 * Message Authentication Codes [here](src/05_mac.ipynb).
