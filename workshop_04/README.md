@@ -9,8 +9,8 @@ The topic covered is Zero Knowledge Proofs and Fully Homomorphic Encryption. The
 ## 11-12pm (CET) Guest speakers
 
 * Kazım Rıfat Özyılmaz - Co - Founder of Arf [here](https://www.linkedin.com/in/kazimozyilmaz/) (20 mins). (Bill)
-* Aditya Shetty - Lead of Superteam India [here](https://www.linkedin.com/in/aditya-shetty-97ab5258/) (Aysegul).
 * Ibrahim Kushchu  CEO, TheNextMinds UK [here](https://scholar.google.com/citations?user=ERPjK2AAAAAJ&hl=en) (Gonca).
+* Aditya Shetty - Lead of Superteam India [here](https://www.linkedin.com/in/aditya-shetty-97ab5258/) (Aysegul).
  
 ## 12-1pm (CET) Break.
 
