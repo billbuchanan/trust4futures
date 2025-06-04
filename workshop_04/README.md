@@ -14,7 +14,7 @@ The topic covered is Zero Knowledge Proofs and Fully Homomorphic Encryption. The
  
 ## 12-1pm (CET) Break.
 
-## 1-1:2pm (CET) ZKP/FHE Demos and Quiz
+## 1-2pm (CET) ZKP/FHE Demos and Quiz
 This will provide some demos and a quiz.
 
 ## 2-3pm (CET) Guest speaker
