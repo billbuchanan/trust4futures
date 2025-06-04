@@ -22,12 +22,21 @@ Some examples are here:
 ## 1-2pm (CET) ZKP/FHE Demos and Quiz
 This will provide some demos and a quiz.
 
-Examples:
+ZKP examples:
 
 * Fiat-Shamir. This implements the Fiat-Shamir method with the secp256k1 curve [here](https://asecuritysite.com/zero/nizkp).
 * Accumulators. This implements an elliptic curve method of implementing an accumulator [here](https://asecuritysite.com/zero/witness).
 * zkSnark. This implements a ZKP [here](https://asecuritysite.com/zero/go_qap) and proof with R1CS [here](https://asecuritysite.com/zero/go_r1cs).
 * Pedersen Commitment. This implements a simple Pedersen Commitment [here](https://asecuritysite.com/encryption/ped).
+
+Full Homomorphic Encryption:
+
+* BFV/BGV adding two numbers [here](https://asecuritysite.com/openfhe/openfhe_02cpp).
+* BFV/BGV batching [here](https://asecuritysite.com/openfhe/openfhe_08cpp).
+* CKKS adding/subtracting [here](https://asecuritysite.com/openfhe/openfhe_05cpp).
+* CKKS Chebyshev approximations [here](https://asecuritysite.com/openfhe/openfhe_18cpp).
+* CKKS Matrix multiplication [here](https://asecuritysite.com/openfhe/openfhe_27cpp).
+* DM Boolean circuit [here](https://asecuritysite.com/openfhe/openfhe_09cpp).
   
 ## 2-3pm (CET) Guest speaker
 
