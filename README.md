@@ -1,5 +1,7 @@
 # Trust4Futures
-This is a collaboration between Edinburgh Napier University, TAGES and Istanbul Blockchain Women and funded by the EIT Deep Tech Talent Initiative of the European Institute of Innovation and Technology (EIT). The main Web site is [here](https://trust4futures.com/) and the associated Moodle site is [here](https://moodlecommunity.napier.ac.uk/course/view.php?id=960). The Juypterhub server is [here](http://cipherctf.com) and the test user name is net01, net02 or net03 and the password is "Napier123".
+This is a collaboration between Edinburgh Napier University, TAGES and Istanbul Blockchain Women and funded by the EIT Deep Tech Talent Initiative of the European Institute of Innovation and Technology (EIT). The main Web site is [here](https://trust4futures.com/) and the associated Moodle site is [here](https://moodlecommunity.napier.ac.uk/course/view.php?id=960). 
+
+<!--The Juypterhub server is [here](http://cipherctf.com) and the test user name is net01, net02 or net03 and the password is "Napier123".-->
 
 ## Developing Deep Tech Skills in Digital Trust
 
