@@ -1,73 +1,78 @@
-# Workshop 3
+# Workshop 4
 
-The third workshop is on 7 May 2025 at 10 am (CET). If you are registered on Moodle, the link is [here](https://moodlecommunity.napier.ac.uk/course/view.php?id=960).
+The fourth workshop is on 4 June 2025 at 10 am (CET). If you are registered on Moodle, the link is [here](https://moodlecommunity.napier.ac.uk/course/view.php?id=960).
 
-## 10-11am (CET) AI and Cyber
+## 10-11am (CET) Zero Knowledge Proofs and Fully Homomorphic Encryption
 
-The topic covered is AI and Cyber. The presentation on AI and Cyber is [here](https://www.youtube.com/watch?v=k20AD736OAs) and the live presentation is [here](https://www.youtube.com/watch?v=0D8UarDGwwk). You can download the presentation [here](https://asecuritysite.com/workshop_03_ai.pdf). 
+The topic covered is Zero Knowledge Proofs and Fully Homomorphic Encryption. The presentation on ZKPs and Fully Homomorphic Encryption is [here](https://youtu.be/J03UE89Qw8E).
 
+Some examples are here:
+
+* ZKP [link](https://asecuritysite.com/zero).
+* OpenFHE [link](https://asecuritysite.com/openfhe).
+  
 ## 11-12pm (CET) Guest speakers
 
-* Prof.Dr. Fazlı Yıldırım [profile](https://www.linkedin.com/in/fazl%C4%B1-y%C4%B1ld%C4%B1r%C4%B1m-07961140/)
-* Talha Demirsoy [profile](https://www.linkedin.com/in/talha-demirsoy/).
+* Kazım Rıfat Özyılmaz - Co - Founder of Arf [here](https://www.linkedin.com/in/kazimozyilmaz/) (20 mins). (Bill)
+* Ibrahim Kushchu  CEO, TheNextMinds UK [here](https://scholar.google.com/citations?user=ERPjK2AAAAAJ&hl=en) (Gonca).
+* Aditya Shetty - Lead of Superteam India [here](https://www.linkedin.com/in/aditya-shetty-97ab5258/) (Aysegul).
  
 ## 12-1pm (CET) Break.
 
-## 1-1:2pm (CET) PQC and Quiz
-The presentation on PQC is [here](https://www.youtube.com/watch?v=GWlJIHZaXGw).
+## 1-2pm (CET) ZKP/FHE Demos and Quiz
+This will provide some demos and a quiz.
 
-A demo of Kyber (ML-KEM) is [here](https://asecuritysite.com/webcrypto/crypt_ml_kem).
+ZKP examples:
 
-A demo of Dilithium (ML-DSA) is [here](https://asecuritysite.com/webcrypto/crypt_ml_dsa).
+* Fiat-Shamir. This implements the Fiat-Shamir method with the secp256k1 curve [here](https://asecuritysite.com/zero/nizkp).
+* Accumulators. This implements an elliptic curve method of implementing an accumulator [here](https://asecuritysite.com/zero/witness).
+* zkSnark. This implements a ZKP [here](https://asecuritysite.com/zero/go_qap) and proof with R1CS [here](https://asecuritysite.com/zero/go_r1cs).
+* Pedersen Commitment. This implements a simple Pedersen Commitment [here](https://asecuritysite.com/encryption/ped).
 
-## 2-2:50pm (CET) Guest speaker
+Full Homomorphic Encryption:
 
-* Don Smith. AI and Cybersecurity. The chat is [here](https://www.youtube.com/watch?v=zGkOT-bkkuo).
-
-## 2:50-3pm Break
- 
-## 3-4pm (CET) World-leaders in Cryptography: Anna Lysyanskaya
-Anna is a Professor of Computer Science at Brown University. Her research spans many areas of advanced cryptography including with digital signatures, group signatures, blind signatures, e-cash and anonymous digital credentials. She was originally from Ukraine, and undertook her masters degree at MIT in 1999, and then went onto a PhD in 2002 in the areas of Signature Schemes and Applications to Cryptographic Protocol Design. She joined Brown University in 2002, and was made a full professor in 2013. She is a member of the board of directors at the IACR, along with serving  on Scientific Advisory Board for the Board of Directors of the Electronic Privacy Information Center (EPIC). In 2024, she was awarded the Levchin Prize for a contribution entitled "For the Development of Anonymous Credentials".
-
-The discussion is [here](https://www.youtube.com/watch?v=o6bq-eMgTBI).
-
-# Key Principles of AI and Cyber
-
-## GenAI
-* The Turing Test was devised by Alan Turing. It tests a machine for ability to exhibit human intelligence.
-* There are many types of human intelligence, including spatial intelligence (picture smart), inter-personnel intelligence (people smart) and intra-personal intelligence (self smart)
-* ChatGPT used for text analysis, DALLE-3 for image generation, Sora for video generation and Whisper for audio.
-* Back propagation used to train a Neural Network.
-* Convolution is used to convert a Neural Network input to a set of parameters.
-* Forward propagation used for to fire neurons in the Neural Network.
-* Hallucinations are where GenAI gets the result wrong.
-* Jailbreaking an LLM involves taking it outside its limits for ethical and moral guidelines.
-* The singararity is the point at which machine intelligence exceeds human intelligence.
-* The first step of training an LLM is to label the required outputs behavour for training data.
-* The second step of training an LLM involves a human grading a range of outputs, from best to worst.
-* The third step of training an LLM involves receiving a reward for the correct outputs.
-* Key threats for attacking GenAI  are jailbreaks, reverse psychology, model escape and prompt injection.
-* Certain key words can sometimes be used to detect the presence of LLM outputs, such as for the word of "delve".
-* Ways of detecting machine activity include forced persona, too informal and lack of a personality.
-* way of detecting human activity include humanlike tone, informal tone, and SPAG (Spelling and Grammar) errors.
-* Llama 3 is an open source LLM model from Meta. It is available in 3.2 billion and 70 billion parameters.
-* Google created the Transformer method in 2017, and which supported the use to token predication and LSTM (Long-short-term-memory).
-* ollamma is a tool to prompt the Llama 3 model.
+* BFV/BGV adding two numbers [here](https://asecuritysite.com/openfhe/openfhe_02cpp).
+* BFV/BGV batching [here](https://asecuritysite.com/openfhe/openfhe_08cpp).
+* CKKS adding/subtracting [here](https://asecuritysite.com/openfhe/openfhe_05cpp).
+* CKKS Chebyshev approximations [here](https://asecuritysite.com/openfhe/openfhe_18cpp).
+* CKKS Matrix multiplication [here](https://asecuritysite.com/openfhe/openfhe_27cpp).
+* DM Boolean circuit [here](https://asecuritysite.com/openfhe/openfhe_09cpp).
   
-## PQC
-* Quantum computers uses Qubits to process data.
-* Shorr's algorithm can crack existing public key methods.
-* Gover's algorithm can crack 128-bit symmetric key and hashing methods.
-* Kyber selected for a Post Quantum Key Exchange and Public Key Encryption method, along with HQC.
-* Dilithium, FALCON and SPHINCS+ selected for a Post Quantum Digital Signature method.
-* The most common key exchange method is ECDH (Elliptic Curve Diffie Hellman).
-* The most common digital signature methods are RSA PSS, ECDSA and EdDSA.
-* The most common public key encryption method is RSA OAEP.
-* Kyber (ML-KEM) is a lattice method and is standardized with the NIST defined FIPS 203 standard.
-* Dilithium (ML-DSA) is a lattice method and is standardized with the NIST defined FIPS 204 standard.
-* SPHINCS+ (SLH-DSA) is a hash based method and is standardized with the NIST defined FIPS 205 standard. It has small key sizes but a relatively large signature size.
-* FALCON is a lattice based method and is standardized with the NIST defined FIPS 206 standard. It has smaller key and cipher sizes than Dilithium.
-* HQC has been added as a key exchange alterative to Kyber (ML-KEM).
+## 2-3pm (CET) Guest speaker
+
+* Madjid Golparvaran Tehrani. PQC and Quantum Computing.
+ 
+## 3-4pm (CET) World-leaders in Cryptography: Chris Peikert, University of Michigan.
+Chris is a Professor in the Computer Science and Engineering department at the University of Michigan. He completed his PhD in 2006 at the MIT Computer Science and AI Laboratory under the mentorship of Silvio Micali.  He received a Test of Time award at Crypto 2008 for a paper entitled "A Framework for Efficient and Composable Oblivious Transfer" and also a TCC Test of Time award for his paper on “Efficient Collision-Resistant Hashing from Worst-Case Assumptions on Cyclic Lattices,” in 2006.  In 2024, Chris was elected a Fellow of the International Association for Cryptologic Research and is recognised as one of the world's leading experts in lattice-based methods.
+
+# Test 
+The test is [here](https://moodlecommunity.napier.ac.uk/mod/quiz/view.php?id=53965).
+
+# Key Principles of ZKP and FHE
+Zero Knowledge Proofs:
+
+* An accumulator is a fixed-length register which stores data elements using a private key, and then a witness can be created with the private key and provided with the associated public key.
+* The Fiat-Shamir method can implement a Non-interactive zero-knowledge proof (NI-ZKP) method.
+* A range proof allows for verification if a value is within a given range. Bulletproofs are a popular range proof.
+* zkSnarks supports a public and a private input into an equation, and where a proof of correctness can be created.
+* A Pedersen Commitment allows for a transaction value to be blinded. It can be used in privacy-aware cryptocurrency.
+* With an interactive ZKP, Victor will generate a challenge for Peggy, whereas with a non-interactive ZKP, Peggy will generate her own challenge from a hash of various values.
+* With discrete logs, g^x.y^y (mod p) is equal to g^{x+y} (mod p), and where g is a base generator and p is a prime number.
+* With discrete logs, {g^x)^y (mod p) is equal to g^{xy} (mod p), and where g is a base generator and p is a prime number.
+* With elliptic curve cryptography (ECC), a.G is a point on the curve, and where a is a scalar value, and G is the base point.
+* A Ring signature can hide the sign of a message, and who is someone within a trusted range of signers.
+
+Fully Homomorphic Encryption:
+
+* FHE uses lattice methods, and where we map to points in a lattice using Learning With Errors (LWE).
+* In the asymmetric key methods, a public key is used to encrypt the data, and a private key is used to decrypt the result.
+* In symmetric key methods, the same key encrypts and decrypts.
+* A neural network can be made up of vector and matrix operations.
+* For SVM, we can train with non-encrypted data, and then export the model to run with homomorphically encrypted data.
+* Bootstrapping is used to remove the buildup of noise, especially where there are multiplication operations.
+* Chebyshev Approximation can be used to implement a range of mathematical functions in a lattice form.
+
+
 
 
 
