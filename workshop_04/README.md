@@ -6,6 +6,11 @@ The fourth workshop is on 4 June 2025 at 10 am (CET). If you are registered on M
 
 The topic covered is Zero Knowledge Proofs and Fully Homomorphic Encryption. The presentation on ZKPs and Fully Homomorphic Encryption is [here](https://youtu.be/J03UE89Qw8E).
 
+Some examples are here:
+
+* ZKP [link](https://asecuritysite.com/zero).
+* OpenFHE [link](https://asecuritysite.com/openfhe).
+  
 ## 11-12pm (CET) Guest speakers
 
 * Kazım Rıfat Özyılmaz - Co - Founder of Arf [here](https://www.linkedin.com/in/kazimozyilmaz/) (20 mins). (Bill)
