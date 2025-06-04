@@ -4,7 +4,7 @@ The fourth workshop is on 4 June 2025 at 10 am (CET). If you are registered on M
 
 ## 10-11am (CET) Zero Knowledge Proofs and Fully Homomorphic Encryption
 
-The topic covered is Zero Knowledge Proofs and Fully Homomorphic Encryption. The presentation on AI and Cyber is [here](https://youtu.be/J03UE89Qw8E).
+The topic covered is Zero Knowledge Proofs and Fully Homomorphic Encryption. The presentation on ZKPs and Fully Homomorphic Encryption is [here](https://youtu.be/J03UE89Qw8E).
 
 ## 11-12pm (CET) Guest speakers
 
