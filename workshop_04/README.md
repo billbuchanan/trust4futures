@@ -1,6 +1,6 @@
 # Workshop 4
 
-The fourth workshop is on 4 June 2025 at 10 am (CET). If you are registered on Moodle, the link is [here](https://moodlecommunity.napier.ac.uk/course/view.php?id=960).
+The fourth workshop was on 4 June 2025 at 10 am (CET). If you are registered on Moodle, the link is [here](https://moodlecommunity.napier.ac.uk/course/view.php?id=960).
 
 ## 10-11am (CET) Zero Knowledge Proofs and Fully Homomorphic Encryption
 
