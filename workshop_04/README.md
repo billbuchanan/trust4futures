@@ -37,6 +37,8 @@ Full Homomorphic Encryption:
 * CKKS Chebyshev approximations [here](https://asecuritysite.com/openfhe/openfhe_18cpp).
 * CKKS Matrix multiplication [here](https://asecuritysite.com/openfhe/openfhe_27cpp).
 * DM Boolean circuit [here](https://asecuritysite.com/openfhe/openfhe_09cpp).
+
+The live talk with demos from the Workshop is [here](https://www.youtube.com/watch?v=he5R6ckhfhY).
   
 ## 2-3pm (CET) Guest speaker
 
@@ -73,9 +75,6 @@ Fully Homomorphic Encryption:
 * Chebyshev Approximation can be used to implement a range of mathematical functions in a lattice form.
 
 You can take the test [here](https://moodlecommunity.napier.ac.uk/mod/quiz/view.php?id=53965).
-
-
-
 
 
 
