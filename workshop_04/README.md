@@ -16,6 +16,8 @@ Some examples are here:
 * Kazım Rıfat Özyılmaz - Co - Founder of Arf [here](https://www.linkedin.com/in/kazimozyilmaz/) (20 mins). (Bill)
 * Ibrahim Kushchu  CEO, TheNextMinds UK [here](https://scholar.google.com/citations?user=ERPjK2AAAAAJ&hl=en) (Gonca).
 * Aditya Shetty - Lead of Superteam India [here](https://www.linkedin.com/in/aditya-shetty-97ab5258/) (Aysegul).
+
+The talks are [here](https://www.youtube.com/watch?v=tSx8guzuiBQ).
  
 ## 12-1pm (CET) Break.
 
