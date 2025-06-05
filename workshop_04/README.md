@@ -4,7 +4,7 @@ The fourth workshop is on 4 June 2025 at 10 am (CET). If you are registered on M
 
 ## 10-11am (CET) Zero Knowledge Proofs and Fully Homomorphic Encryption
 
-The topic covered is Zero Knowledge Proofs and Fully Homomorphic Encryption. The presentation on ZKPs and Fully Homomorphic Encryption is [here](https://youtu.be/J03UE89Qw8E), and the slide deck is [here](https://github.com/billbuchanan/trust4futures/blob/main/workshop_04/workshop_04_future.pdf).
+The topic covered is Zero Knowledge Proofs and Fully Homomorphic Encryption. The presentation on ZKPs and Fully Homomorphic Encryption is [here](https://youtu.be/J03UE89Qw8E), and the slide deck is [here](https://github.com/billbuchanan/trust4futures/blob/main/workshop_04/workshop_04_future.pdf). The live talk from the Workshop is [here](https://www.youtube.com/watch?v=he5R6ckhfhY).
 
 Some examples are here:
 
