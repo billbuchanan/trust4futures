@@ -23,7 +23,7 @@ The main workshops are:
 * Online Workshop 2 (Wednesday, 16 April 2025, 10am CET). Blockchain and Cryptocurrency [here](https://github.com/billbuchanan/trust4futures/tree/main/workshop_02).
 * Online Workshop 3 (Wednesday, 7 May 2025, 10am CET). Cyber, AI and Post Quantum [here](https://github.com/billbuchanan/trust4futures/tree/main/workshop_03).
 * Online Workshop 4 (Wednesday, 4 June 2025, 10am CET). Homomorphic Encryption and Zero Knowledge Proofs [here](https://github.com/billbuchanan/trust4futures/tree/main/workshop_04).
-* Online/physical Conference (Tuesday, 24 June 2025, 10am CET): Conference and engagement.
+* Online/physical Conference (Tuesday, 24 June 2025, 10am CET): Conference and engagement [here](https://github.com/billbuchanan/trust4futures/tree/main/conference).
 
 
 
